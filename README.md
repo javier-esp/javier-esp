@@ -1,6 +1,6 @@
 ¡Hola! Soy Javier 👋
 
-Estudiante de Ingeniería Informática con una apasionado por el mundo de la tecnología y la programación. Mi enfoque se centra en adquirir conocimientos sólidos y aplicarlos para resolver problemas complejos y crear soluciones innovadoras.
+Estudiante de Ingeniería Informática apasionado por el mundo de la tecnología y la programación. Mi enfoque se centra en adquirir conocimientos sólidos y aplicarlos para resolver problemas complejos y crear soluciones innovadoras.
 
 📚 Actualmente me encuentro cursando el segundo año de mi carrera en la Universidad de Córdoba. Mi búsqueda constante de aprendizaje me ha llevado a explorar gran variedad de temas, desde Data Science hasta Machine Learning.
 
