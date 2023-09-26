@@ -20,7 +20,7 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 </div>
 
 
-[![Python](icons/Python.svg.png)](https://www.python.org/)
+
 
 
 
