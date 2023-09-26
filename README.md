@@ -1,14 +1,12 @@
-<h1 align="center">Hola 👋, Soy Javier Espantaleón</h1>
+<h1 align="center">Hello 👋, I'm Javier Espantaleón</h1>
 
+- 🔭 I'm currently studying Computer Engineering at the University of Córdoba.
 
-- 🔭 ACTUALMENTE ESTOY ESTUDIANDO INGENIERÍA INFORMÁTICA EN LA UNIVERSIDAD DE CÓRDOBA 
+- 🌱 In my free time, I study Machine Learning and Deep Learning using tools like Scikit-Learn, TensorFlow...
 
-- 🌱 EN MIS TIEMPOS LIBRES ESTUDIO MACHINE LEARNING Y DEEP LEARNING CON HERRAMIENTAS COMO SCIKIT-LEARN, TENSORFLOW...
+- 👨‍💻 All my projects are in the repositories on my GitHub.
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN LOS REPOSITORIOS DE MI GITHUB 
-
-- 📫 PUEDES CONTACTARME AL CORREO javierespantaleon@outlook.es
-
+- 📫 You can contact me at the email javierespantaleon@outlook.es.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-javier-espantale%C3%B3n-p%C3%A9rez-730aa0281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
