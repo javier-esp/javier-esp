@@ -17,17 +17,22 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 
 
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/Visual_studio_code.png" alt="angular" width="40" height="40"/> 
-</a> <a href="https://www.geeksforgeeks.org/c-language-introduction/"> <img src="icons/C_Programming_Language.png" alt="css3" width="40" height="40"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/Python.png" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/C++_Programming_Language.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://isocpp.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/> 
+</a> <a href="https://isocpp.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ 
+
+ 
+
+
+ 
+ 
 
 
 
