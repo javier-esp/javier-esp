@@ -27,7 +27,7 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 </a> <a href="https://isocpp.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://isocpp.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://isocpp.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Scikit-Learn.png" alt="express" width="40" height="40"/> 
+</a> <a href="https://isocpp.org/"> <img src="icons/Scikit-learn.png" alt="express" width="40" height="40"/> 
 
 
 
