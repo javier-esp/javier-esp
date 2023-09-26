@@ -18,8 +18,8 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/Visual_studio_code.png" alt="angular" width="40" height="40"/> 
 </a> <a href="https://www.geeksforgeeks.org/c-language-introduction/"> <img src="icons/C_Programming_Language.png" alt="css3" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/C++_Programming_Language.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/Python.png" width="40" height="40"/> 
+</a> <a href="https://isocpp.org/"> <img src="icons/C++_Programming_Language.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
