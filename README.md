@@ -1,3 +1,9 @@
+<img src="icons/banner.jpg" alt="Descripción de la imagen">
+
+
+
+
+
 <h1 align="center">Hello 👋, I'm Javier Espantaleón</h1>
 
 - 🔭 I'm currently studying Computer Engineering at the University of Córdoba.
