@@ -21,8 +21,8 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 </a> <a href="https://isocpp.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
 </a> <a href="https://isocpp.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/>
 </a> <a href="https://isocpp.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
 </a> <a href="https://isocpp.org/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/>
+</a> <a href="https://isocpp.org/"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
 </a> <a href="https://isocpp.org/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
 </a> <a href="https://isocpp.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
