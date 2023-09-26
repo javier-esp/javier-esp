@@ -12,6 +12,11 @@ Estudiante de Ingeniería Informática apasionado por el mundo de la tecnología
 
 La aventura de la ingeniería informática es desafiante y emocionante, y estoy emocionado por cada paso en este viaje. 🌟
 
+<a href="https://www.python.org/">
+  ![Python](icons/python.png)
+</a>
+
+
 
 <!---
 javier-esp/javier-esp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
