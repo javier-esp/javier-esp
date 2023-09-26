@@ -19,8 +19,27 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
   <a href="https://www.python.org/" style="margin-right: 20px;">
     <img src="icons/Python.svg.png" alt="Python" width="50" height="50">
   </a>
+
+  <div style="display: flex; align-items: center;">
+  <a href="https://https://www.iso.org/standard/74528.html/" style="margin-right: 20px;">
+    <img src="icons/C_logo_pur.png" alt="Python" width="50" height="50">
+  </a>
   <!-- Agrega más imágenes siguiendo el mismo patrón -->
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
