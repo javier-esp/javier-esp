@@ -27,6 +27,11 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
   <!-- Agrega más imágenes siguiendo el mismo patrón -->
 </div>
 
+[![Python](icons/Python.svg.png | width=100)](https://www.python.org/)
+[![Java](icons/java.png | width=100)](https://www.oracle.com/java/)
+[![JavaScript](icons/javascript.png | width=100)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 
 
