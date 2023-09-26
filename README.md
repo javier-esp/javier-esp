@@ -18,14 +18,14 @@ La aventura de la ingeniería informática es desafiante y emocionante, y estoy 
 
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/Visual_studio_code.png" alt="angular" width="40" height="40"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/Python.png" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://isocpp.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
-</a> <a href="https://isocpp.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> <a href="https://pandas.pydata.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
+</a> <a href="https://numpy.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/>
+</a> <a href="https://matplotlib.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/>
+</a> <a href="https://scikit-learn.org/stable/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/>
+</a> <a href="https://www.tensorflow.org/?hl=es-419"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
+</a> <a href="https://keras.io/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
+</a> <a href="https://pytorch.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
+ 
  
 
  
