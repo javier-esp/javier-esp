@@ -12,6 +12,9 @@ Estudiante de Ingeniería Informática apasionado por el mundo de la tecnología
 
 La aventura de la ingeniería informática es desafiante y emocionante, y estoy emocionado por cada paso en este viaje. 🌟
 
+
+Languages and tools:
+
 <div style="display: flex; align-items: center;">
   <a href="https://www.python.org/" style="margin-right: 20px;">
     <img src="icons/Python.svg.png" alt="Python" width="50" height="50">
