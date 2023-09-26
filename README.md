@@ -12,7 +12,7 @@
 
 - 👨‍💻 All my projects are in the repositories on my GitHub.
 
-- 📫 You can contact me at the email javierespantaleon@outlook.es.
+- 📫 You can contact me at the email javierespantaleon@outlook.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-javier-espantale%C3%B3n-p%C3%A9rez-730aa0281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
