@@ -21,22 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/Visual_studio_code.png" alt="angular" width="40" height="40"/> 
-</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/Python.png" width="40" height="40"/> 
-</a> <a href="https://pandas.pydata.org/"> <img src="icons/Pandas.png" alt="express" width="40" height="40"/> 
-</a> <a href="https://numpy.org/"> <img src="icons/Numpy.png" alt="express" width="40" height="40"/>
-</a> <a href="https://matplotlib.org/"> <img src="icons/Matplotlib.png" alt="express" width="40" height="40"/>
-</a> <a href="https://scikit-learn.org/stable/"> <img src="icons/scikit.png" alt="express" width="40" height="40"/>
-</a> <a href="https://www.tensorflow.org/?hl=es-419"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
-</a> <a href="https://keras.io/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
-</a> <a href="https://pytorch.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash-icon.png" alt="express" width="40" height="40"/>
-
-</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons-/Python-Dark.svg" width="50" height="50"/> 
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons-/Bash-Dark.svg" width="50" height="50"/> 
-
-[![My Skills](https://skillicons.dev/icons?i=py)]()
+[![My Skills](icons-/Python-Dark.svg)]()
 [![My Skills](https://skillicons.dev/icons?i=bash)]()
 
 
