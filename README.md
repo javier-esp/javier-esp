@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="icons-/Python-Dark.svg" alt="My Skills" width="60" height="60"><img src="icons-/Bash-Dark.svg" alt="My Skills" width="60" height="60">
+<img src="icons-/Python-Dark.svg" alt="My Skills" width="60" height="60"> <img src="icons-/Bash-Dark.svg" alt="My Skills" width="60" height="60">
 
 [![My Skills](https://skillicons.dev/icons?i=bash)]()
 
