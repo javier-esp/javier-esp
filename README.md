@@ -35,6 +35,10 @@
 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons-/Python-Dark.svg" width="50" height="50"/> 
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons-/Bash-Dark.svg" width="50" height="50"/> 
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="icons-/Python-Dark.svg" width="50" height="50"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="icons-/Bash-Dark.svg" width="50" height="50"/> </a>
+
  
  
 
