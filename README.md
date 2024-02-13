@@ -8,7 +8,6 @@
 
 - 👨‍💻 All my projects are in the repositories on my GitHub.
 
-- 📫 You can contact me at the email javierespantaleon@outlook.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
