@@ -27,6 +27,12 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
+| Característica | Descripción |
+| -------------- | ----------- |
+| Funcionalidad  | Hace esto   |
+| Rendimiento    | Rápido      |
+
+
 <details>
   <summary>Github Stats ⚡</summary>
   
