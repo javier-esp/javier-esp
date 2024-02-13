@@ -25,7 +25,7 @@
 
 <a href="https://www.python.org/"><img src="icons-/Python-Dark.svg" alt="My Skills" width="60" height="60"></a> <a href="https://www.gnu.org/software/bash/"><img src="icons-/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a>
 
-<a href="https://www.python.org/"><img src="icons-/Python-Dark.svg" alt="My Skills" width="60" height="60" style="margin-right: 10px;"></a> <a href="https://www.gnu.org/software/bash/"><img src="icons-/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a>
+<a href="https://www.python.org/"><img src="icons-/Python-Dark.svg" alt="My Skills" width="60" height="60" style="margin-right: 30px;"></a> <a href="https://www.gnu.org/software/bash/"><img src="icons-/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a>
 
 
 
