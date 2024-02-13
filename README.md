@@ -20,7 +20,7 @@
 <a href="https://www.gnu.org/software/bash/"><img src="icons/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 <a href="https://www.mysql.com/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 
-![status]()
+![status](https://dev.discordprofiles.me/api/badge/status/366653199169355778?simple=true)
 ![playing]()
 ![vscode]()
 [![spotify]()
