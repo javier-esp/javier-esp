@@ -23,7 +23,7 @@
 
 <a href="https://www.python.org/"><img src="icons/Python-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="icons/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="icons/MySQL-Dark" alt="My Skills" width="60" height="60"></a> &nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 
 
 
