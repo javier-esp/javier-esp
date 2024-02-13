@@ -20,7 +20,7 @@
 
 <a href="https://www.python.org/"><img src="icons/Python-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="icons/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
+<a href="https://www.mysql.com/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
