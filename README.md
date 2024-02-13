@@ -32,6 +32,8 @@
 </a> <a href="https://keras.io/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
 </a> <a href="https://pytorch.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash-icon.png" alt="express" width="40" height="40"/>
+
+[![My Skills](https://skillicons.dev/icons?i=py,bash)](https://skillicons.dev)
  
  
 
