@@ -1,4 +1,4 @@
-<img src="icons/banner.jpg" alt="Descripción de la imagen">
+<img src="icons/binary.gif" alt="Descripción de la imagen">
 
 <h1 align="center">Hello 👋, I'm Javier Espantaleón</h1>
 
