@@ -15,6 +15,8 @@
 - 📫 You can contact me at the email javierespantaleon@outlook.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](#)
+
 <a href="https://www.linkedin.com/in/franciscojavierespantale%C3%B3np%C3%A9rez/"><img src="icons/LinkedIn.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 </p>
 
