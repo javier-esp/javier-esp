@@ -31,7 +31,7 @@
 </a> <a href="https://www.tensorflow.org/?hl=es-419"> <img src="icons/Tensorflow.png" alt="express" width="40" height="40"/>
 </a> <a href="https://keras.io/"> <img src="icons/Keras.png" alt="express" width="40" height="40"/>
 </a> <a href="https://pytorch.org/"> <img src="icons/PyTorch.png" alt="express" width="40" height="40"/>
-</a> <a href="https://www.gnu.org/software/bash/"> <img src="icons/bash-icon.png" alt="express" width="50" height="50"/>
+</a> <a href="https://www.gnu.org/software/bash/"> <img src="icons/bash-icon.png" alt="express" width="50" height="40"/>
  
  
 
