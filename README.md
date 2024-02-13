@@ -34,6 +34,7 @@
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash-icon.png" alt="express" width="40" height="40"/>
 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons-/Python-Dark.svg" width="40" height="40"/> 
+</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons-/Bash-Dark.svg" width="40" height="40"/> 
  
  
 
