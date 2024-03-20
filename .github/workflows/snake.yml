@@ -9,3 +9,6 @@ jobs:
     steps:
       - name: Generate Snake Game
         uses: Platane/snk@v3.2.0
+        with:
+          github_user: javier-esp
+
