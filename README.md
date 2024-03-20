@@ -20,7 +20,7 @@
 <a href="https://www.gnu.org/software/bash/"><img src="icons/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 <a href="https://www.mysql.com/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 
-              - name: generate-snake-game-from-github-contribution-grid
+                name: generate-snake-game-from-github-contribution-grid
                 uses: Platane/snk@v3.2.0
             
 
