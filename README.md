@@ -20,6 +20,11 @@
 <a href="https://www.gnu.org/software/bash/"><img src="icons/Bash-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 <a href="https://www.mysql.com/"><img src="icons/MySQL-Dark.svg" alt="My Skills" width="60" height="60"></a> &nbsp;
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
  
  
